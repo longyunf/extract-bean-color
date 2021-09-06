@@ -1,0 +1,7 @@
+data
+data/*
+lib/__pycache__
+lib/*.asv
+scripts/__pycache__
+scripts/*.asv
+push.sh
